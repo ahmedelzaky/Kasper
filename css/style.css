@@ -65,7 +65,7 @@ ul {
   opacity: 1;
   transform: translateX(0);
   filter: blur(0); 
-  transition: all .1s;
+  transition: all 1s;
 }
 
 /* end global rules */
