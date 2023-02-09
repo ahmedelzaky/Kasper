@@ -140,7 +140,7 @@ header nav ul {
 
   ul li a {
     height: 15px;
-  } 
+  }
 }
 
 header .container ul a {
@@ -148,7 +148,7 @@ header .container ul a {
   color: white;
   display: block;
   font-size: 14px;
-  transition: 0.3;
+  transition: 0.3s;
   padding: 40px 10px;
 }
 
@@ -251,7 +251,7 @@ header nav {
 .landing .change-background {
   position: absolute;
   top: 50%;
-  transform: translateY(-50);
+  transform: translateY(-50%);
   color: #ddd;
 }
 
