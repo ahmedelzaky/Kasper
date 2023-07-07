@@ -197,6 +197,7 @@ header nav {
   position: relative;
   background-color: #1f2021;
   width: 100%;
+  transition: 1s;
 }
 
 .landing .overlay {
