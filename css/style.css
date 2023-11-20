@@ -358,6 +358,10 @@ header nav {
 
 .services .col {
   display: flex;
+  padding: 10px;
+}
+.services .col:hover {
+  box-shadow: -12px 3px 13px 10px rgb(0, 0, 0, 0.1);
 }
 
 .services .col .text {
